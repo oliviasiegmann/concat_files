@@ -2,6 +2,7 @@
 
 #help -h messages
 show_help() {
+echo ""
 echo "To use, ./concat_files.sh [options] <output_file> <input files>"
 echo ""
 echo "This script concatenates, or merges, various text files together into a single file"

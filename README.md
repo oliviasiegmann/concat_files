@@ -12,3 +12,5 @@
 
  another example would be: ./concat_files.sh -f 'Go' test4.txt test1.txt test2.txt
  this would only include lines that match the word "Go"
+
+ i broke it somehow so second final commit
